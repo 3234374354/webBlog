@@ -1,4 +1,8 @@
 https://zhuanlan.zhihu.com/p/370635512
 
+http://theme-next.iissnan.com/getting-started.html
+
 cd hexo
 hexo clean && hexo g && hexo d
+
+

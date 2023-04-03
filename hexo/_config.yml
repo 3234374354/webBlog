@@ -7,8 +7,8 @@ title: 内蒙古建工
 subtitle: ''
 description: ''
 keywords:
-author: He Xianglong
-language: zh-CN
+author: ''
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -98,7 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: 3-hexo
+# theme: 3-hexo
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
